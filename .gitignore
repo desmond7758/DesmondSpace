@@ -144,6 +144,3 @@ fabric.properties
 # sftp configuration file
 sftp-config.json
 
-smdlog.txt
-
-/source/UIM-API-6789.log
